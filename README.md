@@ -34,13 +34,12 @@ Le jeu de données a été traité avec **Pandas**. Au-delà du nettoyage classi
 ### 1. Le Top 10 : La Crème de la Crème 🏆
 Analyse des notes globales. On remarque la domination des titres récents comme *Frieren* aux côtés de classiques indétrônables comme *Fullmetal Alchemist: Brotherhood*.
 
-![Top 10 Animes](chemin/vers/ton_image_top10.jpg)
-*(Note : Remplace ce chemin par ton image du barplot)*
+![Top 10 Animes]
 
 ### 2. L'impact de la Source Originale 📚
 D'où viennent les meilleures histoires ? L'analyse révèle que les adaptations de **Visual Novels** et les œuvres **Originales** ont souvent une moyenne supérieure aux adaptations de Mangas classiques.
 
-![Source Analysis](chemin/vers/ton_image_sources.jpg)
+![Source Analysis]
 
 ### 3. L'Analyse Finale : Qualité vs Régularité vs Longueur 🎯
 C'est le cœur du projet. Ce scatterplot multidimensionnel permet de segmenter les animes :
@@ -50,7 +49,7 @@ C'est le cœur du projet. Ce scatterplot multidimensionnel permet de segmenter l
 * **Taille des bulles** : La longueur de la série.
 * **Couleur** : L'intensité de l'écart type.
 
-![Scatter Plot Final](chemin/vers/ton_image_scatterplot.jpg)
+![Scatter Plot Final]
 
 > **Insight :** Les "Chefs-d'œuvre absolus" se trouvent dans le coin supérieur droit (Haute Note + Haute Régularité). On remarque aussi que maintenir une régularité parfaite est un défi majeur pour les animes longs (grosses bulles).
 
@@ -75,7 +74,7 @@ C'est le cœur du projet. Ce scatterplot multidimensionnel permet de segmenter l
 
 ## 📝 Auteur
 
-Projet réalisé par **[Ton Nom/Pseudo]**.
+Projet réalisé par Louis Nourry
 Passionné par la Data Visualization et la Pop-culture.
 
 *N'hésitez pas à étoiler ⭐ ce repo si l'analyse vous a plu !*
